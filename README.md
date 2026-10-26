@@ -1,6 +1,6 @@
 # Portal Parkur
 
-> **Durum: `KAPANDI` (Salih, 2026-10-26).** Proje olarak sonlandırıldı; farklı ürün fikirlerinin üst üste prompt'larla karışması gerekçe. Kod silinmedi, arşiv olarak durur (m.8); yeniden açma: `jarvis/raporlar/seans/seans-teslim-2026-10-26-portal-parkur-oyunu.json` → `yeniden_acma`.
+> **Durum: arşiv (2026-10-26).** Bir günlük demo; aktif geliştirme yok. Kod açık kaynak (MIT, `LICENSE`); çatallayıp sürdürebilirsiniz. Üretim: Hasan Salih Şahin + Claude (Jarvis) oturumu, 2026-10-25/26; sistem deposu `salihsahinin/sistem`.
 
 Birinci şahıs parkur + portal oyunu: Mirror's Edge tarzı beyaz çatılarda koşu, duvar koşusu, kenara tutunup çıkma ve kayma; Aperture tarzı test odalarında bilek-tipi portal cihazıyla mavi/turuncu portal, ışık köprüsü, fırlatma plakası ve itki jeli. Godot 4.7.2 ile yazıldı; tüm geometri, eller ve sesler kodla üretilir, dış varlık dosyası yoktur.
 
@@ -56,3 +56,7 @@ Birinci şahıs parkur + portal oyunu: Mirror's Edge tarzı beyaz çatılarda ko
 - Portal silahı yerleştirme fikri: [xen-42/godot-portal-gun](https://github.com/xen-42/godot-portal-gun) (Godot 3).
 - Dying Light / Portal 2 / Mirror's Edge ticari kodu kullanılmadı; mekanikler açık kaynak karşılıklarından ve genel bilinen tekniklerden inşa edildi.
 - Referans depolar `referans/` altında klonludur (git dışı).
+
+## Lisans
+
+MIT (`LICENSE`). `addons/portals` VojtaStruhar/godot-portals-plugin, MIT.
